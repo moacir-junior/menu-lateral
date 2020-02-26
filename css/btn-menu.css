@@ -1,0 +1,16 @@
+.btnmenu{
+    display: block;
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    padding: 20px 15px;
+    background-position: 15px center;
+}
+
+.btnmenu-opened{
+    background-image: url(../img/dark-menu.svg);
+}
+
+.btnmenu-closed{
+    background-color: #c3002f;
+    background-image: url(../img/light-menu.svg);
+}
